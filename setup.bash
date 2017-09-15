@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by Rider
+#Written by Takeshi Kataoka
 
 exec 2> /tmp/setup.log
 
